@@ -3,6 +3,10 @@ dnd5e-quickref
 
 A quick and dirty solarized remake of the original. I know it isn't a perfect use of Solarized, but it is much easier on the eyes.
 
+There is a GitHub Page hosted at https://brokenvhs.github.io/dnd5e-quickref-solarized/.
+
+I will try to keep changes between master and the github page in-sync as quickly as possible if I modify the master branch.
+
 Quick reference sheet for D&amp;D 5E
 
 Icons
