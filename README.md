@@ -3,7 +3,7 @@ dnd5e-quickref
 
 A quick and dirty solarized remake of the original. I know it isn't a perfect use of Solarized, but it is much easier on the eyes.
 
-Quick reference sheet for D&amp;D 5e
+Quick reference sheet for D&amp;D 5E
 
 Icons
 ==============
